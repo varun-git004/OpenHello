@@ -67,14 +67,14 @@ export default function NavBar() {
                   Contributors
                 </Link>
                 <a
-                  href="https://github.com/your-actual-username/your-repo-name"
+                  href="https://github.com/sidxhdev/OpenHello.git"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center space-x-2 px-3 py-2 text-base font-medium text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-2xl transition-colors"
                   onClick={() => setIsMenuOpen(false)}
                 >
                   <Github size={18} />
-                  <span>GitHub</span>
+                  <span>GitHub Repository</span>
                 </a>
               </div>
             </div>

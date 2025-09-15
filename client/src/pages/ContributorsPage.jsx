@@ -80,11 +80,9 @@ const ContributorsPage = () => {
       <div className="flex-1 py-10">
         <div className="container mx-auto px-4">
           <h1 className="text-4xl font-bold text-center text-white mb-4">
-            Our Contributors
+            Contributors
           </h1>
-          <p className="text-center text-gray-200 mb-8 text-lg">
-            Meet the amazing people who make this project possible
-          </p>
+        
 
           {/* Search Bar */}
           <div className="max-w-md mx-auto mb-8">
