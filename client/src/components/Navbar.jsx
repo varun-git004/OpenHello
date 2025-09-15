@@ -33,7 +33,7 @@ export default function NavBar() {
                 Contributors
               </Link>
               <a
-                href="https://github.com/your-actual-username/your-repo-name"
+                href="https://github.com/sidxhdev/OpenHello.git"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 px-3 py-2 rounded-2xl text-xl font-semibold text-gray-700 border-2 border-black dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"

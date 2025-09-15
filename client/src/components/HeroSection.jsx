@@ -7,7 +7,7 @@ const HeroSection = () => {
   return (
     <section className="grid grid-cols-1 justify-center">
       {/* Typing intro */}
-      <div className="text-center mt-5">
+      <div className="text-center mt-5 mb-20">
         <TextType
           text={[
             "Welcome to OpenHello",
@@ -23,7 +23,7 @@ const HeroSection = () => {
           className="text-3xl md:text-6xl font-bold text-center"
         />
         <h2 className="text-2xl font-semibold">
-          Your 1st step into OpenSource
+          Your first step into OpenSource
         </h2>
       </div>
 
