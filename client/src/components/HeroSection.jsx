@@ -7,7 +7,7 @@ const HeroSection = () => {
   return (
     <section className="grid grid-cols-1 justify-center">
       {/* Typing intro */}
-      <div className="text-center mt-5 mb-20">
+      <div className="text-center mt-5 mb-5">
         <TextType
           text={[
             "Welcome to OpenHello",
@@ -28,9 +28,9 @@ const HeroSection = () => {
       </div>
 
       {/* About / Steps Card */}
-      <div className="w-11/12 mx-auto bg-white dark:bg-[#ef233c] border-2 shadow-lg p-10 mt-8 rounded-t-[8vh]">
+      <div className="w-11/12 mx-auto bg-white dark:bg-[#ef233c] border-2 shadow-lg p-10 mt-4 rounded-t-[8vh]">
         {/* Switch buttons */}
-        <div className="flex justify-center space-x-4 mb-6">
+        <div className="flex justify-end space-x-4 mb-6">
           <button
             onClick={() => setActiveTab("about")}
             className={`px-4 py-2 text-lg md:text-xl font-semibold rounded-2xl border-2 transition-colors ${
