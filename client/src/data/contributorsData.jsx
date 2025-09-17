@@ -1,9 +1,15 @@
 export const contributorsData = [
   {
-    name: "Siddesh Navthale",
-    photoUrl: "https://avatars.githubusercontent.com/u/111569738?v=4",
-    githubUrl: "https://github.com/sidxhdev",
+    name: "Surya Uniyal",
+    photoUrl: "https://avatars.githubusercontent.com/u/186946137?v=4",
+    githubUrl: "https://github.com/uniyalsurya",
   },
+    {
+    name: "Surya Uniyal",
+    photoUrl: "https://avatars.githubusercontent.com/u/186946137?v=4",
+    githubUrl: "https://github.com/uniyalsurya",
+  },
+
 
     {
     name: "Yash Satptue",
@@ -69,6 +75,7 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/222658435?v=4",
     githubUrl: "https://github.com/Vandeetshah17",
   },
+
 
 
 
