@@ -1,5 +1,10 @@
 export const contributorsData = [
   {
+    name: "Siddesh Navthale",
+    photoUrl: "https://avatars.githubusercontent.com/u/178910823?s=400&v=4",
+    githubUrl: "https://github.com/PaRaSpAlKaR",
+  },
+  {
     name: "Deep Keni",
     photoUrl: "https://avatars.githubusercontent.com/u/220671308?s=400&u=1a50b953088645caf2cd88e42eca8d0b5627d1d9&v=4",
     githubUrl: "https://github.com/Deep-keni/Deep-Keni",
@@ -28,11 +33,7 @@ export const contributorsData = [
     photoUrl: "https://github.com/account",
     githubUrl: "https://github.com/santoshichoudhary190-droid",
   },
-  {
-    name: "Siddesh Navthale",
-    photoUrl: "https://avatars.githubusercontent.com/u/178910823?s=400&v=4",
-    githubUrl: "https://github.com/PaRaSpAlKaR",
-  },
+  
   {
     name: "Shashank Bankar",
     photoUrl: "https://avatars.githubusercontent.com/u/144619400?v=4",
@@ -50,10 +51,6 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/220624744?v=4",
     githubUrl: "https://github.com/Arya9415",
   },
-
-  
-
-  
 
   {
     name:"aadil",
@@ -107,10 +104,13 @@ export const contributorsData = [
     githubUrl: "https://github.com/Vandeetshah17",
   },
   {
+
     name: "Sumit Rathod",
     photoUrl: "https://avatars.githubusercontent.com/u/182794567?s=400&u=f7721b950bf735af04cb93011b238987bb9f99b2&v=4",
     githubUrl: "https://github.com/Sumitr995",
   },
+
+
 
 
   // Add more contributors here
