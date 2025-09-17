@@ -55,7 +55,7 @@ Inside the array, add your object in this format:
 - Click **New Pull Request**
 - Select your fork and branch
 - Add a title like: `Add [Your Name] to contributors`
-- Click **Create Pull Request**
+- Click **Create Pull Request** to dev branch
 
 ### 6. Wait for Review
 - Your PR will be reviewed and merged
@@ -137,4 +137,5 @@ Thanks to all contributors who help make this project a welcoming space for begi
 ---
 
 **Happy Contributing! 🚀**
+
 
