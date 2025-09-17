@@ -33,6 +33,11 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/178910823?s=400&v=4",
     githubUrl: "https://github.com/PaRaSpAlKaR",
   },
+  {
+    name: "Shashank Bankar",
+    photoUrl: "https://avatars.githubusercontent.com/u/144619400?v=4",
+    githubUrl: "https://github.com/CodePicsel",
+  },
 
    {
     name: "Shubhangi Rajanale",
