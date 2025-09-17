@@ -11,6 +11,13 @@ export const contributorsData = [
   },
 
 
+
+  {
+    name: "Anil Yadav",
+    photoUrl: "https://avatars.githubusercontent.com/u/155896766?v=4",
+    githubUrl: "https://github.com/Anilyadav20",
+  },
+
     {
     name: "Yash Satptue",
     photoUrl: "https://avatars.githubusercontent.com/u/222073891?v=4",
@@ -22,6 +29,7 @@ export const contributorsData = [
     githubUrl: "https://github.com/santoshichoudhary190-droid",
   },
   
+
   
 
   {
