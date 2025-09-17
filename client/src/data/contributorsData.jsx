@@ -33,6 +33,13 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/178910823?s=400&v=4",
     githubUrl: "https://github.com/PaRaSpAlKaR",
   },
+
+   {
+    name: "Shubhangi Rajanale",
+    photoUrl: "https://avatars.githubusercontent.com/u/220670759?v=4",
+    githubUrl: "https://github.com/ShubhangiRajnale",
+  },
+
   {
     name: "Arya",
     photoUrl: "https://avatars.githubusercontent.com/u/220624744?v=4",
@@ -94,15 +101,6 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/222658435?v=4",
     githubUrl: "https://github.com/Vandeetshah17",
   },
-
-
-
-
-
-
-
- 
-
   {
     name: "Sumit Rathod",
     photoUrl: "https://avatars.githubusercontent.com/u/182794567?s=400&u=f7721b950bf735af04cb93011b238987bb9f99b2&v=4",
