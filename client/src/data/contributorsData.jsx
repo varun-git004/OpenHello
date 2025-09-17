@@ -15,6 +15,12 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/222073891?v=4",
     githubUrl: "https://github.com/Yash-Satpute",
   },
+ {
+    name: "santoshi chaudhary",
+    photoUrl: "https://github.com/account",
+    githubUrl: "https://github.com/santoshichoudhary190-droid",
+  },
+  
   
 
   {
