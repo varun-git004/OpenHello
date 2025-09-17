@@ -29,9 +29,9 @@ Follow these simple steps to add yourself to the Contributors list:
 Click the **Fork** button at the top right of this page.  
 This creates a copy of the repo in your GitHub account.
 
-### 2. Navigate to `contributorsData.js`
+### 2. Navigate to `contributorsData.jsx`
 In your forked repo:
-- Go to `src/data/contributorsData.js`  
+- Go to `src/data/contributorsData.jsx`  
 - Click **Edit (✏️)**
 
 ### 3. Add Your Details
@@ -137,3 +137,4 @@ Thanks to all contributors who help make this project a welcoming space for begi
 ---
 
 **Happy Contributing! 🚀**
+
