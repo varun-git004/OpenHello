@@ -9,6 +9,11 @@ export const contributorsData = [
     photoUrl: "https://avatars.githubusercontent.com/u/180926010?v=4",
     githubUrl: "https://github.com/manali-0715",
   },
+  {
+    name: "Vamdeet",
+    photoUrl: "https://avatars.githubusercontent.com/u/180926010?v=4",
+    githubUrl: "https://github.com/Vandeetshah17",
+  },
   
  
   // Add more contributors here
