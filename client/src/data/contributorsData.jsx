@@ -5,6 +5,13 @@ export const contributorsData = [
     githubUrl: "https://github.com/sidxhdev",
   },
 
+    {
+    name: "KAVYA SHAH",
+    photoUrl: "https://avatars.githubusercontent.com/u/220664183?s=400&u=0476ba5880665dd1f8dbb0779d119b12c3c4f19e&v=4",
+    githubUrl: "https://github.com/KAVYASHAH180",
+  },
+
+
   {
     name: "vaidehi Patel",
     photoUrl: "https://avatars.githubusercontent.com/u/232736126?s=400&v=4",
@@ -25,7 +32,7 @@ export const contributorsData = [
     gituburl:"https://github.com/kadamgeetika-cpu",
   },
     
-
+  {
     name: "Sahil Rewale",
     photoUrl: "https://avatars.githubusercontent.com/u/223218760?s=400&u=472b5d6906f12cd670485c037f1790d93cfe29e7&v=4",
     githubUrl: "https://github.com/sahilrewale-09",
